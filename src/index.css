@@ -254,7 +254,7 @@ a:focus-visible {
 }
 
 .hero-image {
-  background-image: url("/images/foto ipul.jpeg");
+  background-image: url("/images/foto ku.jpeg");
   background-position: center center;
   background-size: cover;
   animation: image-arrive 1.5s cubic-bezier(0.2, 0.7, 0.2, 1) both;
